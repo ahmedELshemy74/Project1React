@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+
+
+.active {
+  @apply rounded-md p-2 text-white bg-[#1abc9c]
+}
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
